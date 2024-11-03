@@ -1,0 +1,56 @@
+.div2 {
+    background-color: #1ddd33;
+    width: 200px;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .div1 {
+    color: white;
+    background-color: transparent;
+    border: 1px solid #1ddd33;
+    width: 200px;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+h1{
+    text-align: center;
+}
+ html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Roboto';font-size: 16px;
+    text-align: center;
+   
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    font-family: 'Roboto';font-size: 16px;
+}
+.h1{
+    font-family: 'Poppins';
+    font-size: 40px;
+    font-weight: 600;
+    color: #1ddd33;
+    line-height: 52px;
+    vertical-align: baseline
+}
+.body{
+    background-image: url(Batman_Vol_3_18_Textless.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+body{
+    background-color: gray;
+}
